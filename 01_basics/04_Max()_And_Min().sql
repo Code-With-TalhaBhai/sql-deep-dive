@@ -7,3 +7,5 @@
 
 select * from inventory limit 5
 
+SELECT MAX(price)
+FROM inventory
