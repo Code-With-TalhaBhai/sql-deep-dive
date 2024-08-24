@@ -1,0 +1,3 @@
+Whenever you clone this directory if you have extension `SQL NOTEBOOK`, otherwise install it from the extensions. Try opening with each file with `Open With...` `SQL NoteBook`, then you have more readible and extensive view.
+
+First establish connection with the database and then go.......

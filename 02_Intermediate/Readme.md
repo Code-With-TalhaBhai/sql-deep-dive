@@ -1,0 +1,1 @@
+The `DB` we are going to use in these examples are `inventory`
